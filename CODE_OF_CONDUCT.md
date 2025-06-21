@@ -1,18 +1,12 @@
----
-
-# 🧾 2. `CODE_OF_CONDUCT.md`
-
-```markdown
 # Code of Conduct
 
 ## 📜 Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone — regardless of age, body size, disability, ethnicity, gender identity, level of experience, nationality, race, religion, or sexual identity.
 
-We are committed to fostering a welcoming and respectful environment.
----
+## We are committed to fostering a welcoming and respectful environment
 
-# ✅ Our Standards
+## ✅ Our Standards
 
 Examples of behavior that contributes to a positive environment:
 
