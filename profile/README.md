@@ -46,7 +46,7 @@ Here’s how we organize our repositories:
 
 **EndToEndLabCR** was created to help developers build with confidence, from first sketch to final deployment.
 
-- 📍 Based in Costa Rica — open to contributors worldwide
+- 🇨🇷 Based in Costa Rica — open to contributors worldwide
 - 📫 Contact: _[alonsonh94@gmail.com](mailto:alonsonh94@gmail.com)_
 
 ---
