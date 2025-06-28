@@ -9,32 +9,31 @@ To maintain consistency, clarity, and scalability across all projects in the org
 Our repositories are named using the following pattern:
 
 ```bash
-<project-name>-<type>-<technology>
+<projectname>-<type>-<technology>
 ```
 
 ---
 
 ## 🔹 Components Explained
 
-| Segment        | Description                               | Examples                                                       |
-| -------------- | ----------------------------------------- | -------------------------------------------------------------- |
-| `project-name` | The project identifier (short, lowercase) | `workshop1`, `demoapp`, `sandbox`, `template`                  |
-| `type`         | Purpose of the repository                 | `web`, `api`, `mobile`, `desktop`, `infra`, `tool`, `template` |
-| `technology`   | Primary tech or stack used                | `react`, `fastapi`, `flutter`, `electron`, `terraform`, `vite` |
+| Segment       | Description                               | Examples                                                       |
+| ------------- | ----------------------------------------- | -------------------------------------------------------------- |
+| `projectname` | The project identifier (short, lowercase) | `workshop1`, `demoapp`, `sandbox`                              |
+| `type`        | Purpose of the repository                 | `web`, `api`, `mobile`, `desktop`, `infra`, `tool`, `template` |
+| `technology`  | Primary tech or stack used                | `react`, `fastapi`, `flutter`, `electron`, `terraform`, `vite` |
 
 ---
 
 ## ✅ Accepted `type` Values
 
-| Type       | Use Case                                 |
-| ---------- | ---------------------------------------- |
-| `web`      | Web frontend apps                        |
-| `api`      | Backend APIs and services                |
-| `mobile`   | Native or hybrid mobile apps             |
-| `desktop`  | Desktop clients (e.g. Electron apps)     |
-| `infra`    | Infrastructure, CI/CD, automation        |
-| `tool`     | Scripts, utilities, internal tools       |
-| `template` | Starter kits and reusable project setups |
+| Type      | Use Case                             |
+| --------- | ------------------------------------ |
+| `web`     | Web frontend apps                    |
+| `api`     | Backend APIs and services            |
+| `mobile`  | Native or hybrid mobile apps         |
+| `desktop` | Desktop clients (e.g. Electron apps) |
+| `infra`   | Infrastructure, CI/CD, automation    |
+| `tool`    | Scripts, utilities, internal tools   |
 
 ---
 
@@ -51,11 +50,10 @@ Our repositories are named using the following pattern:
 
 ### 🧰 Internal Tools & Templates
 
-| Repository Name        | Description                      |
-| ---------------------- | -------------------------------- |
-| `template-api-fastapi` | API starter template             |
-| `template-web-vite`    | Vite + React frontend template   |
-| `tool-image-uploader`  | Standalone image upload CLI/tool |
+| Repository Name        | Description                    |
+| ---------------------- | ------------------------------ |
+| `template-api-fastapi` | API starter template           |
+| `template-web-react`   | Vite + React frontend template |
 
 ---
 

@@ -43,12 +43,21 @@ Come introduce yourself, share what you're working on, and collaborate with othe
 
 Here’s how we organize our repositories:
 
-- `base-react-project`: Base project with React + Vite + TypeScript
-- `base-fastapi-project`: FastAPI + PostgreSQL + Docker boilerplate
-- `devops-infra`: Terraform IaC and GitHub Actions workflows
-- `components`: Reusable UI components and utilities
+- `template-web-react`: Base project with React + Vite + TypeScript
+- `template-api-fastapi`: FastAPI + PostgreSQL + Docker boilerplate
+- `documentaion`: Important documentation
 
 ---
+
+## 📛 Repository Naming Guidelines
+
+To ensure consistency and clarity across projects, we follow a standardized naming pattern:
+
+```bash
+<projectname>-<type>-<technology>
+```
+
+📛 See our [Repository Naming Guidelines](../NAMING_GUIDELINES.md) for detailed rules and examples
 
 ## 🌎 About
 
