@@ -25,9 +25,17 @@ Whether you're a developer looking to collaborate, learn, or contribute tools an
 
 If you'd like to be added as a collaborator:
 
-1. Send your **GitHub username** or **email** to the admin
+1. Send your **GitHub username** or **email** to the [admin](mailto:alonsonh94@gmail.com)
 2. We'll invite you to join the organization
 3. You can contribute to existing projects or propose new ones!
+
+### 💬 Join the Community on Discord
+
+We have an active space to connect, ask questions, share resources, and coordinate working sessions:
+
+[![Join us on Discord](https://img.shields.io/discord/1387638637109444678?label=Discord&logo=discord&style=flat)](https://discord.gg/ntknXJXv)
+
+Come introduce yourself, share what you're working on, and collaborate with others in real time!
 
 ---
 
