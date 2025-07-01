@@ -37,6 +37,16 @@ We have an active space to connect, ask questions, share resources, and coordina
 
 Come introduce yourself, share what you're working on, and collaborate with others in real time!
 
+🗓️ **Weekly Meetup**:  
+We meet every **Tuesday at 8:00 PM (Costa Rica time)** in **Reuniones** Discord voice chat to:
+
+- Discuss ongoing projects
+- Share tips and resources
+- Solve problems collaboratively
+- Plan upcoming contributions
+
+Everyone’s welcome — join the conversation and build together!
+
 ---
 
 ## 📁 Project Structure
