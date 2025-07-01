@@ -17,6 +17,8 @@ We specialize in end-to-end development workflows, including:
 
 ---
 
+[⬆️ Back to Top](#endtoendlabcr)
+
 ## 🤝 Get Involved
 
 Whether you're a developer looking to collaborate, learn, or contribute tools and ideas — you're welcome here!
@@ -49,13 +51,15 @@ Everyone’s welcome — join the conversation and build together!
 
 ---
 
+[⬆️ Back to Top](#endtoendlabcr)
+
 ## 📁 Project Structure
 
 Here’s how we organize our repositories:
 
 - `template-web-react`: Base project with React + Vite + TypeScript
 - `template-api-fastapi`: FastAPI + PostgreSQL + Docker boilerplate
-- `documentaion`: Important documentation
+- `documentation`: Important documentation
 
 ---
 
@@ -67,7 +71,16 @@ To ensure consistency and clarity across projects, we follow a standardized nami
 <projectname>-<type>-<technology>
 ```
 
-📛 See our [Repository Naming Guidelines](../NAMING_GUIDELINES.md) for detailed rules and examples
+📖 See our [Repository Naming Guidelines](../NAMING_GUIDELINES.md) for detailed rules and examples
+
+---
+
+## 🌿 Branching Guidelines
+
+We follow a clear branching strategy to keep development organized and predictable.  
+📖 See our [Branch Guidelines](../BRANCH_GUIDELINES.md) for naming conventions, workflow, and best practices.
+
+[⬆️ Back to Top](#endtoendlabcr)
 
 ## 🌎 About
 
@@ -81,3 +94,5 @@ To ensure consistency and clarity across projects, we follow a standardized nami
 ## 📜 License
 
 MIT License – feel free to fork, contribute, and build your own
+
+[⬆️ Back to Top](#endtoendlabcr)
