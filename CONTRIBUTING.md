@@ -12,6 +12,9 @@ Create your own copy of the repository to work on.
 
 ### 2. Create a New Branch
 
+We follow a clear branching strategy to keep development organized and predictable.  
+📖 See our [Branch Guidelines](../BRANCH_GUIDELINES.md) for naming conventions, workflow, and best practices.
+
 Use a descriptive name:
 
 ```bash
