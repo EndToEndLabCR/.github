@@ -24,6 +24,8 @@ Our repositories are named using the following pattern:
 
 ---
 
+[⬆️ Back to Top](#-repository-naming-guidelines)
+
 ## ✅ Accepted `type` Values
 
 | Type      | Use Case                             |
@@ -60,3 +62,5 @@ Our repositories are named using the following pattern:
 > 🧩 This convention helps our team and community contributors instantly understand what each repo is for, what tech it uses, and which project it belongs to.
 
 For any questions or additions to the convention, open an issue in the `.github` repository.
+
+[⬆️ Back to Top](#-repository-naming-guidelines)
