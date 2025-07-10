@@ -1,0 +1,2 @@
+# Assign reviewers to source files
+src/* @EndToEndLabCR/reviewers
