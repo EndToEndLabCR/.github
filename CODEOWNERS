@@ -1,0 +1,6 @@
+# Automatically request reviews for specific teams or individuals
+
+# Format: [file pattern] [@username or @teamname]
+
+# Assign the "reviewers" team for all files
+* @EndToEndLabCR/reviewers
