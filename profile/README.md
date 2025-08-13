@@ -31,11 +31,12 @@ If you'd like to be added as a collaborator:
 2. We'll invite you to join the organization
 3. You can contribute to existing projects or propose new ones!
 
-### 💬 Join the Community on Discord
+### 💬 Join the Community
 
 We have an active space to connect, ask questions, share resources, and coordinate working sessions:
 
-[![Join us on Discord](https://img.shields.io/discord/1387638637109444678?label=Discord&logo=discord&style=flat)](https://discord.gg/ntknXJXv)
+[![Join us on Discord](https://img.shields.io/discord/1387638637109444678?label=Discord&logo=discord&style=flat)](https://discord.gg/ntknXJXv)  
+[![Join us on YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@endtoendlabcr)
 
 Come introduce yourself, share what you're working on, and collaborate with others in real time!
 
@@ -87,7 +88,9 @@ We follow a clear branching strategy to keep development organized and predictab
 **EndToEndLabCR** was created to help developers build with confidence, from first sketch to final deployment.
 
 - 🇨🇷 Based in Costa Rica — open to contributors worldwide
-- 📫 Contact: _[alonsonh94@gmail.com](mailto:alonsonh94@gmail.com)_
+- 📫 Contact:
+  - _[endtoendlabcr@gmail.com](mailto:endtoendlabcr@gmail.com)_
+  - _[alonsonh94@gmail.com](mailto:alonsonh94@gmail.com)_
 
 ---
 
