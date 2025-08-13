@@ -1,0 +1,14 @@
+name: Auto-Assign Reviewers
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  assign-reviewers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Assign Reviewers
+        uses: actions-ecosystem/action-add-reviewer@v1
+        with:
+          reviewers: "@EndToEndLabCR/reviewers"
