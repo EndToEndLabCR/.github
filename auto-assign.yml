@@ -1,0 +1,8 @@
+team_reviewers:
+  - EndToEndLabCR/reviewers
+
+# Number of team reviewers to assign
+number_of_team_reviewers: 1
+
+# Skip assigning reviewers if they are the author of the pull request
+skip_reviewers: true
