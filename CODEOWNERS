@@ -1,6 +1,2 @@
-# Automatically request reviews for specific teams or individuals
-
-# Format: [file pattern] [@username or @teamname]
-
-# Assign the "reviewers" team for all files
-* @EndToEndLabCR/reviewers @Alonsovn @DerianCampos
+# Auto-assign PRs to Alonso, Derian for all files
+* @Alonsovn @DerianCampos
