@@ -3,4 +3,4 @@
 # Format: [file pattern] [@username or @teamname]
 
 # Assign the "reviewers" team for all files
-* @EndToEndLabCR/reviewers @Alonsovn
+* @EndToEndLabCR/reviewers @Alonsovn @DerianCampos
